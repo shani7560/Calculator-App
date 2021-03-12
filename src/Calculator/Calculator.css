@@ -1,0 +1,35 @@
+.components-display{
+    background-color: #858694;
+    height: 100px;
+    text-align: right;
+    font-weight: 200;
+    color: #fff;
+    width: 100%;
+}
+.components-zero{
+    font-size: 4rem;
+    padding: .2rem .7rem .1rem .5rem;
+    font-family: sans-serif;
+}
+.components-button-display{
+    display: flex;
+    
+}
+.components-button{
+    width: 25%
+    
+}
+button{
+    height: 100px;
+    width: 100%;
+    border: 1px solid #858694;
+    font-weight: bolder;
+    font-size: 45px !important;
+}
+.components-button-zero{
+    width: 50%;
+}
+.components-button-orange{
+    background-color: #F2923E;
+    color: white;
+}
